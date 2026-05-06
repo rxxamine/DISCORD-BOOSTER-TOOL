@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://i.ibb.co/LX6cRCfh/Capture.png](https://i.ibb.co/LX6cRCfh/Capture.png)" alt="RX BOOST Banner" width="100%">
+  <img src="https://i.ibb.co/LX6cRCfh/Capture.png" alt="RX BOOST Banner" width="100%">
 </p>
 
 <h1 align="center">
@@ -8,30 +8,30 @@
 
 <p align="center">
    <kbd>
-   <img src="[https://img.shields.io/badge/Engine-Nitro%20Boost-5865F2?style=for-the-badge&logo=discord](https://img.shields.io/badge/Engine-Nitro%20Boost-5865F2?style=for-the-badge&logo=discord)">
-   <img src="[https://img.shields.io/badge/Security-TLS--Fingerprint-00ffcc?style=for-the-badge](https://img.shields.io/badge/Security-TLS--Fingerprint-00ffcc?style=for-the-badge)">
-   <img src="[https://img.shields.io/badge/Platform-Windows-0078d4?style=for-the-badge&logo=windows](https://img.shields.io/badge/Platform-Windows-0078d4?style=for-the-badge&logo=windows)">
+   <img src="https://img.shields.io/badge/Engine-Nitro%20Boost-5865F2?style=for-the-badge&logo=discord">
+   <img src="https://img.shields.io/badge/Security-TLS--Fingerprint-00ffcc?style=for-the-badge">
+   <img src="https://img.shields.io/badge/Platform-Windows-0078d4?style=for-the-badge&logo=windows">
    </kbd><br><br>
-   <img src="[https://img.shields.io/github/languages/top/rxxamine/RX-BOOST](https://img.shields.io/github/languages/top/rxxamine/RX-BOOST)">
-   <img src="[https://img.shields.io/github/stars/rxxamine/RX-BOOST?style=social](https://img.shields.io/github/stars/rxxamine/RX-BOOST?style=social)">
-   <img src="[https://img.shields.io/github/forks/rxxamine/RX-BOOST?style=social](https://img.shields.io/github/forks/rxxamine/RX-BOOST?style=social)">
+   <img src="https://img.shields.io/github/languages/top/rxxamine/RX-BOOST">
+   <img src="https://img.shields.io/github/stars/rxxamine/RX-BOOST?style=social">
+   <img src="https://img.shields.io/github/forks/rxxamine/RX-BOOST?style=social">
    <br>
-   <img src="[https://img.shields.io/github/last-commit/rxxamine/RX-BOOST](https://img.shields.io/github/last-commit/rxxamine/RX-BOOST)">
-   <img src="[https://img.shields.io/github/license/rxxamine/RX-BOOST](https://img.shields.io/github/license/rxxamine/RX-BOOST)">
+   <img src="https://img.shields.io/github/last-commit/rxxamine/RX-BOOST">
+   <img src="https://img.shields.io/github/license/rxxamine/RX-BOOST">
 </p>
 
 ## 🚀 Professional Server Leveling Engine
 
-**RX BOOST** is a clinical, high-performance automation utility engineered for rapid Discord server boosting[cite: 1]. Unlike standard scripts, RX utilizes a specialized `tls_client` architecture to mimic authentic browser handshakes (Chrome 107), significantly reducing the risk of token flagging or account termination[cite: 1].
+**RX BOOST** is a clinical, high-performance automation utility engineered for rapid Discord server boosting. Unlike standard scripts, RX utilizes a specialized `tls_client` architecture to mimic authentic browser handshakes (Chrome 107), significantly reducing the risk of token flagging or account termination.
 
 ---
 
 ## 🔥 Key Features
 
-*   **Advanced Fingerprinting**: Implements `chrome_107` client identifiers to maintain high-reputation sessions during the boosting process[cite: 1].
-*   **Dynamic Slot Identification**: Automatically scans tokens to identify and utilize available premium subscription slots without manual intervention[cite: 1].
-*   **Intelligent List Management**: Features a built-in system that automatically filters and removes invalid or Nitro-less tokens from your `tokens.txt` file[cite: 1].
-*   **Zero-Latency CLI**: A color-coded, Obsidian-style interface providing real-time logs for every boost attempt and successful application[cite: 1].
+*   **Advanced Fingerprinting**: Implements `chrome_107` client identifiers to maintain high-reputation sessions during the boosting process.
+*   **Dynamic Slot Identification**: Automatically scans tokens to identify and utilize available premium subscription slots without manual intervention.
+*   **Intelligent List Management**: Features a built-in system that automatically filters and removes invalid or Nitro-less tokens from your `tokens.txt` file.
+*   **Zero-Latency CLI**: A color-coded, Obsidian-style interface providing real-time logs for every boost attempt and successful application.
 *   **Multi-Threaded Performance**: Optimized for speed, allowing for rapid deployment across multiple tokens simultaneously[cite: 1].
 
 ---
