@@ -15,10 +15,9 @@
    <img src="https://img.shields.io/github/languages/top/rxxamine/RX-BOOST">
    <img src="https://img.shields.io/github/stars/rxxamine/RX-BOOST?style=social">
    <img src="https://img.shields.io/github/forks/rxxamine/RX-BOOST?style=social">
-   <br>
-   <img src="https://img.shields.io/github/last-commit/rxxamine/RX-BOOST">
-   <img src="https://img.shields.io/github/license/rxxamine/RX-BOOST">
 </p>
+
+---
 
 ## 🚀 Professional Server Leveling Engine
 
@@ -28,31 +27,16 @@
 
 ## 🔥 Key Features
 
-*   **Advanced Fingerprinting**: Implements `chrome_107` client identifiers to maintain high-reputation sessions during the boosting process.
-*   **Dynamic Slot Identification**: Automatically scans tokens to identify and utilize available premium subscription slots without manual intervention.
-*   **Intelligent List Management**: Features a built-in system that automatically filters and removes invalid or Nitro-less tokens from your `tokens.txt` file.
-*   **Zero-Latency CLI**: A color-coded, Obsidian-style interface providing real-time logs for every boost attempt and successful application.
-*   **Multi-Threaded Performance**: Optimized for speed, allowing for rapid deployment across multiple tokens simultaneously[cite: 1].
+*   **Advanced Fingerprinting**: Implements `chrome_107` client identifiers to maintain high-reputation sessions.
+*   **Dynamic Slot Identification**: Automatically scans tokens to identify and utilize available premium subscription slots[cite: 1].
+*   **Intelligent List Management**: Features a built-in system that filters and removes invalid or Nitro-less tokens from your `tokens.txt` file[cite: 1].
+*   **Zero-Latency CLI**: A color-coded interface providing real-time logs for every boost attempt[cite: 1].
 
 ---
 
 ## 📖 Installation & Usage
 
 1. **Environment Setup**: Ensure you have Python 3.10+ installed[cite: 1].
-2. **Install Dependencies**: Run the following command in your terminal:
+2. **Install Dependencies**: 
    ```bash
    pip install colorama==0.4.5 tls_client==0.1.5
-
-Asset,Wallet Address
-LTC,ltc1q45pu58nysrmkw3jjhzg9m044p4a62wm6u4kql2
-BTC,bc1qe9t9zwmuedtd0cvvnew0jsjgtq5wlk8zvqlntz
-ETH,0xb59293252f0bf74a3eeed5cd80b8f01708d38a2d
-USDT (BEP20),0xb59293252f0bf74a3eeed5cd80b8f01708d38a2d
-SOL,CVxyyW9qik2GC8Y1UvceUsnCBLDBygWJtQrYV9q9mGEL
-
-Asset,Wallet Address
-LTC,ltc1q45pu58nysrmkw3jjhzg9m044p4a62wm6u4kql2
-BTC,bc1qe9t9zwmuedtd0cvvnew0jsjgtq5wlk8zvqlntz
-ETH,0xb59293252f0bf74a3eeed5cd80b8f01708d38a2d
-USDT (BEP20),0xb59293252f0bf74a3eeed5cd80b8f01708d38a2d
-SOL,CVxyyW9qik2GC8Y1UvceUsnCBLDBygWJtQrYV9q9mGEL
