@@ -42,3 +42,17 @@
 2. **Install Dependencies**: Run the following command in your terminal:
    ```bash
    pip install colorama==0.4.5 tls_client==0.1.5
+
+Asset,Wallet Address
+LTC,ltc1q45pu58nysrmkw3jjhzg9m044p4a62wm6u4kql2
+BTC,bc1qe9t9zwmuedtd0cvvnew0jsjgtq5wlk8zvqlntz
+ETH,0xb59293252f0bf74a3eeed5cd80b8f01708d38a2d
+USDT (BEP20),0xb59293252f0bf74a3eeed5cd80b8f01708d38a2d
+SOL,CVxyyW9qik2GC8Y1UvceUsnCBLDBygWJtQrYV9q9mGEL
+
+Asset,Wallet Address
+LTC,ltc1q45pu58nysrmkw3jjhzg9m044p4a62wm6u4kql2
+BTC,bc1qe9t9zwmuedtd0cvvnew0jsjgtq5wlk8zvqlntz
+ETH,0xb59293252f0bf74a3eeed5cd80b8f01708d38a2d
+USDT (BEP20),0xb59293252f0bf74a3eeed5cd80b8f01708d38a2d
+SOL,CVxyyW9qik2GC8Y1UvceUsnCBLDBygWJtQrYV9q9mGEL
