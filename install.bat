@@ -1,0 +1,1 @@
+pip install colorama==0.4.5 tls_client==0.1.5
